@@ -24,7 +24,6 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
 }
 
-# Compile a regular expression pattern for 'Download Mega Hack'
 mega_hack_pattern = re.compile(r'Download Mega Hack', re.IGNORECASE)
 
 for acc in accs:
